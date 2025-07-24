@@ -1,9 +1,8 @@
-module github.com/fiorix/go-smpp/v2
+module github.com/Bar9-me/go-smpp
 
 go 1.23.0
 
 require (
-	github.com/fiorix/go-smpp v0.0.0-20210403173735-2894b96e70ba
 	github.com/urfave/cli v1.22.17
 	golang.org/x/text v0.27.0
 	golang.org/x/time v0.12.0

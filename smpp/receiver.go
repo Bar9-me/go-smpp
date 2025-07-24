@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fiorix/go-smpp/smpp/pdu"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdufield"
+	"github.com/Bar9-me/go-smpp/smpp/pdu"
+	"github.com/Bar9-me/go-smpp/smpp/pdu/pdufield"
 )
 
 // Receiver implements an SMPP client receiver.

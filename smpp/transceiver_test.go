@@ -11,10 +11,10 @@ import (
 
 	"golang.org/x/time/rate"
 
-	"github.com/fiorix/go-smpp/smpp/pdu"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdufield"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutext"
-	"github.com/fiorix/go-smpp/smpp/smpptest"
+	"github.com/Bar9-me/go-smpp/smpp/pdu"
+	"github.com/Bar9-me/go-smpp/smpp/pdu/pdufield"
+	"github.com/Bar9-me/go-smpp/smpp/pdu/pdutext"
+	"github.com/Bar9-me/go-smpp/smpp/smpptest"
 )
 
 func TestTransceiver(t *testing.T) {

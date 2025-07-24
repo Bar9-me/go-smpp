@@ -19,9 +19,9 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/fiorix/go-smpp/smpp"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdufield"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutext"
+	"github.com/Bar9-me/go-smpp/smpp"
+	"github.com/Bar9-me/go-smpp/smpp/pdu/pdufield"
+	"github.com/Bar9-me/go-smpp/smpp/pdu/pdutext"
 )
 
 // Version of smppcli.
